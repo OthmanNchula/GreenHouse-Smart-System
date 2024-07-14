@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "525350777350",
+    "project_id": "greenhouse-smart-system",
+    "storage_bucket": "greenhouse-smart-system.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:525350777350:android:be97c0f9a3e83393480987",
+        "android_client_info": {
+          "package_name": "com.example.smartgreenhouse"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC83copz7c8YGyuL3WwCELstAaAkCS2IyU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
